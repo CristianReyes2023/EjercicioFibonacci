@@ -1,0 +1,14 @@
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\bin\Debug\net8.0\EjercicioFibonacci.exe
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\bin\Debug\net8.0\EjercicioFibonacci.deps.json
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\bin\Debug\net8.0\EjercicioFibonacci.runtimeconfig.json
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\bin\Debug\net8.0\EjercicioFibonacci.dll
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\bin\Debug\net8.0\EjercicioFibonacci.pdb
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.AssemblyInfoInputs.cache
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.AssemblyInfo.cs
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.dll
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\refint\EjercicioFibonacci.dll
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.pdb
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.genruntimeconfig.cache
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\ref\EjercicioFibonacci.dll
