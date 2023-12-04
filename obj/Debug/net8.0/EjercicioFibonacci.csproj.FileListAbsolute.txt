@@ -12,3 +12,4 @@ C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\
 C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.pdb
 C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.genruntimeconfig.cache
 C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\ref\EjercicioFibonacci.dll
+C:\Users\user\Documents\CristianReyesPrueba\EjercicioFibonacci\obj\Debug\net8.0\EjercicioFibonacci.sourcelink.json
